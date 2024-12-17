@@ -1,0 +1,7 @@
+
+
+
+서비스 URL：http://127.0.0.1:8000/admin/blog/post/
+          http://0.0.0.0:8000/
+
+ 소스코드 git 주소：https://github.com/wl200203/end-of-semester-project/edit/main/url.txt
